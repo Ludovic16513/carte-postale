@@ -1,0 +1,72 @@
+
+
+#barre {
+    border: black solid 1px;
+    height: 83%;
+    width: 0%;
+    position: relative;
+    left: 54%;
+    bottom: -8%;
+}
+
+.ic  {
+    position: relative;
+    display: inline-block;
+    border: solid black 1px;
+    height: 7%;
+    width: 3%;
+    left: 57%;
+}
+
+#fond {
+    position: relative;
+    border: black solid 1px;
+    height: 300px;
+    width: 463px;
+}
+
+#gi{
+    border: solid black 1px;
+    height: 27%;
+    width: 14%;
+    left: 81%;
+    bottom: 88%;
+    position: relative;
+}
+
+
+.ligne {
+    border: black solid 1px;
+    height: 0;
+    position: relative;
+    left: 57%;
+    bottom: 62%;
+    margin-bottom: 6%;
+    margin-right: 61%;
+}
+
+#ligne2{
+    border: black solid 1px;
+    height: 0;
+    position: relative;
+    left: 57%;
+    bottom: 60%;
+    margin-right: 61%;
+    margin-left: 22%;
+}
+
+#text {
+    font-family: Calibri;
+    font-size: 68%;
+    position: relative;
+    bottom: 122%;
+    left: 3%;
+    margin-right: 50%;
+}
+
+
+body {
+    margin:auto;
+    width:auto;
+
+}
